@@ -21,7 +21,7 @@ This is a simple **HTML & CSS** project that showcases a Mario-themed website.
 
 ![img2](screenshot-2.png)
 
-![Pic Hover](screenshot-3)
+![Pic Hover](screenshot-2.png)
 
 ![Email input field](img/screenshot-4.png)
 
