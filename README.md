@@ -17,12 +17,12 @@ This is a simple **HTML & CSS** project that showcases a Mario-themed website.
 - **CSS3**
 
 ## 🖼️ Project Images
-![Welcome banner](Marioclub-Website/img/screenshot-2.png)
+![Welcome banner](Marioclub-Website/img/screenshot-1.png)
 
-![img2](screenshot-2.png)
+![img2](Marioclub-Website/img/screenshot-2.png)
 
-![Pic Hover](screenshot-2.png)
+![Pic Hover](Marioclub-Website/img/screenshot-3.png)
 
-![Email input field](img/screenshot-4.png)
+![Email input field](Marioclub-Website/img/screenshot-4.png)
 
 
