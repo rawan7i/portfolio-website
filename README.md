@@ -18,8 +18,8 @@ This is a simple **HTML & CSS** project that showcases a Mario-themed website.
 
 ## 🖼️ Project Images
 The project uses the following images (located in the `img/` folder):
-- `screenshot-1.png` → Welcome banner.    
-- `screenshot-2.png` 
+- `img\screenshot-1.png` → Welcome banner.    
+- `img/screenshot-2.png` 
 - `screenshot-3.png` → Pic Hover  
 - `screenshot-4.png` → Email input field 
 
