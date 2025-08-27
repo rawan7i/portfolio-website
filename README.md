@@ -17,7 +17,7 @@ This is a simple **HTML & CSS** project that showcases a Mario-themed website.
 - **CSS3**
 
 ## 🖼️ Project Images
-![Welcome banner](img/screenshot-1)
+![Welcome banner](img/screenshot-1.png)
 
 ![img2](screenshot-2.png)
 
